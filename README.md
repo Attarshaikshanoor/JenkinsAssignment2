@@ -1,7 +1,2 @@
 # JenkinsAssignment2
-
-Commit 1 
-Commit 2
-Commit 3
-Commit 4
-Commit 5 in test  branch
+Committing this test branch branch to see changes in test server
